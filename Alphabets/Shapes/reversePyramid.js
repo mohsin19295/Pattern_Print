@@ -9,7 +9,7 @@ A A A A A A A A A A A A A
           F F F           
             G 
 
-NOTE: N should be >=3
+NOTE: N should be >=3 & <= 26
 */
 
 const reverseAlphabeticPyramid = (n) => {

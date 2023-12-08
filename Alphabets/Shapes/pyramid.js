@@ -8,7 +8,7 @@ Given a number N, print the Alphabets in Pyramid shape like below:
   E E E E E E E E E     
 F F F F F F F F F F F 
 
-NOTE: N should be >=3
+NOTE: N should be >=3 & <= 26
 */
 
 const alphabeticPyramid = (n) => {
