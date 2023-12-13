@@ -12,7 +12,7 @@ NOTE: N should be >=3
 
 */
 
-const oppositeRightAngleStar = (n) => {
+const opsRightAngleStar = (n) => {
   for (let i = 1; i <= n; i++) {
     let res = '';
     for (let j = 1; j <= n; j++) {
@@ -24,4 +24,4 @@ const oppositeRightAngleStar = (n) => {
   }
 };
 
-oppositeRightAngleStar(6);
+opsRightAngleStar(6);
