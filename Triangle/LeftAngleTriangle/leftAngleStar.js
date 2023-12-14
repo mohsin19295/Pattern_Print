@@ -42,7 +42,7 @@ NOTE: N should be >=4
 
 */
 
-const opsLeftAngle = (n) => {
+const holoLeftAngle = (n) => {
   for (let i = 1; i <= n; i++) {
     let res = '';
     for (let j = 1; j <= n; j++) {
@@ -56,4 +56,4 @@ const opsLeftAngle = (n) => {
   }
 };
 
-opsLeftAngle(6);
+holoLeftAngle(6);
