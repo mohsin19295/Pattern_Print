@@ -1,4 +1,4 @@
- /*
+/*
 Given a number N, print the alphabet character 'P' like below:
 
 * * * *   
